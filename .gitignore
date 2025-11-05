@@ -10,6 +10,5 @@ wheels/
 .venv
 
 # 账号配置和 cookie 文件（包含敏感信息）
-accounts_config.json
-account*.json
-auth_account*.json
+*.json
+
